@@ -1,17 +1,7 @@
 # paraz_online_shopping
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 9 28 13 PM" src="https://github.com/user-attachments/assets/3769e6c7-bd38-4388-b5a6-b021a32af0af" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-23 at 9 28 12 PM" src="https://github.com/user-attachments/assets/bf181010-d33f-406d-b5fc-b7fd4ab0f232" />
